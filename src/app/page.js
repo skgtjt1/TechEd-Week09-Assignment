@@ -8,7 +8,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <h1>Homepage</h1>
 
-      <p>If you can see this then you have logged in!</p>
+      <p>Welcome to a weird pseudo social media site!</p>
     </main>
   );
 }

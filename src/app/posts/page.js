@@ -1,3 +1,7 @@
 export default function Posts() {
-  return <h1>You&apos;ve reached the posts page!</h1>;
+  return (
+    <>
+      <h1>You reached the posts page!</h1>
+    </>
+  );
 }
