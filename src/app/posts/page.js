@@ -1,7 +1,7 @@
 export default function Posts() {
   return (
     <>
-      <h1>You reached the posts page!</h1>
+      <h1>Global posts are here:</h1>
     </>
   );
 }
